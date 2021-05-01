@@ -1,3 +1,3 @@
 # shape-generator
 
-<a href='https://fullstackacademy.github.io/shape-generator/' target='_blank'>Demo</a>
+Click <a href='https://fullstackacademy.github.io/shape-generator/' target='_blank'>Demo</a> to get started.
