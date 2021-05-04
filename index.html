@@ -84,7 +84,6 @@
       const link = document.querySelector("a");
       const container = document.querySelector("#container");
       const h1 = document.querySelector("h1");
-      const shapeObj = { 1: "border", 2: "border - radius" };
 
       container.addEventListener("click", (ev) => {
         if (!ev.target.id) {
@@ -104,7 +103,6 @@
         const size = `${input.value}px`;
         const circle = document.createElement("div");
         const randomNum = Math.floor(Math.random() * 2) / 2;
-        const newShape = shapeObj[randomNum];
 
         circle.style.width = size;
         circle.style.height = size;
